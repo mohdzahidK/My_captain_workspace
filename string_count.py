@@ -9,7 +9,6 @@ def most_frequent(s):
 
     for i in li1:
        
-      # for j in li2:
          j = s.count(i)
          print(i ,"=",j)
          
